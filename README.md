@@ -19,6 +19,7 @@ This guide is applicable to:
 - Code reviewers: Provides comprehensive inspection dimensions and specific verification methods.
 - Code submitters: Understands review concerns and performs preliminary self-checks on code quality.
 - Project leaders: A reference for establishing team code review standards.
+- AI Automated Code Review Tool: Establishing Reference Standards for Reviewing Rust Code
 
 ## Relationship with Other Guidelines
 
